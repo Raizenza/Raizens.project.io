@@ -9,6 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 -Bulleted 
+
+- Bulleted number
+2. List this is a test of skillz
 ```markdown
 Syntax highlighted code block
 

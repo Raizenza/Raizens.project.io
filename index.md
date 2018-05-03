@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> We're living the future so the present is our past.
 
 - Bulleted number
 2. List this is a test of skillz

@@ -8,7 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
--Bulleted 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 - Bulleted number
 2. List this is a test of skillz
